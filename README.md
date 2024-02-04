@@ -18,7 +18,7 @@ To get started with AIEmpathJourney, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (if any).
-3. Follow the instructions in the [documentation](link-to-documentation) to set up and run the AI system.
+3. We are focused on creating the system before documenting the setup and usage instructions run the AIEmpathJourney.
 4. Explore the features and functionalities of the AI system to access personalized guidance and support for your recovery journey.
 
 ## Contributing
