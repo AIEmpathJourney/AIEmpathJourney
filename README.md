@@ -8,7 +8,7 @@ AIEmpathJourney is an AI-driven project dedicated to providing compassionate gui
 - **Empathetic Support**: With a focus on empathy and understanding, our AI system offers compassionate support to individuals navigating trauma recovery.
 - **Resilience Building**: Through resources, tools, and support, our AI system empowers individuals to develop resilience and strength on their healing path.
 
-## The Why
+## Why
 
 Sols that have experienced sexual trauma, assault, and abuse often face immense challenges in their recovery journey, including feelings of isolation, shame, and lack of support. AIEmpathJourney offers a safe and supportive space for survivors to access personalized guidance, resources, and community connections to aid in their healing process. By harnessing the power of AI, we aim to provide empathetic support and empower survivors to reclaim their sense of self-worth and purpose.
 
