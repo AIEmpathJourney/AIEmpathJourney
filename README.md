@@ -23,7 +23,7 @@ To get started with AIEmpathJourney, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to help improve and enhance AIEmpathJourney. If you're interested in contributing, please follow our [contribution guidelines](link-to-contribution-guidelines) and open a pull request.
+We welcome contributions from the community to help improve and enhance AIEmpathJourney. If you're interested in contributing, please follow our [contribution guidelines](https://github.com/AIEmpathJourney/AIEmpathJourney/blob/main/CONTRIBUTION%20GUIDELINES.md) and open a pull request.
 
 ## Support
 
