@@ -55,7 +55,7 @@ Please review and adhere to our [Code of Conduct](link-to-code-of-conduct) when 
 
 ## License
 
-By contributing to AIEmpathJourney, you agree to license your contributions under the terms of the [MIT License](link-to-license).
+By contributing to AIEmpathJourney, you agree to license your contributions under the terms of the [MIT License](https://github.com/AIEmpathJourney/AIEmpathJourney/blob/main/LICENSE).
 
 
 
