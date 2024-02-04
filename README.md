@@ -31,4 +31,4 @@ If you need help or have any questions about AIEmpathJourney, please open an iss
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](https://github.com/AIEmpathJourney/AIEmpathJourney/blob/main/LICENSE).
